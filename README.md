@@ -12,6 +12,8 @@ A aplicação web basicamente consiste em um C.R.U.D em PDO que permite que o us
 ![image](https://user-images.githubusercontent.com/81277111/124827299-426ed380-df4c-11eb-8689-4b9eed7f89fa.png)
 
 ![image](https://user-images.githubusercontent.com/81277111/124827313-469af100-df4c-11eb-8159-8d01c0fc337f.png)
+![image](https://user-images.githubusercontent.com/81277111/124827798-d8a2f980-df4c-11eb-8817-7643a15adb5f.png)
+
 
 ![image](https://user-images.githubusercontent.com/81277111/124827323-4ac70e80-df4c-11eb-8eea-c8be0f2ad69b.png)
 
